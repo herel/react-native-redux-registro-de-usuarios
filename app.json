@@ -1,0 +1,7 @@
+{
+  "name" : "herelodin",
+  "displayName" : "Herel Odin",
+  "expo": {
+    "sdkVersion": "26.0.0"
+  }
+}
