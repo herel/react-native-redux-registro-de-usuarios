@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/node_modules/react-native/Libraries/Text/TextInput/Multiline/RCTMultilineTextInputViewManager.m \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/node_modules/react-native/Libraries/Text/TextInput/Multiline/RCTMultilineTextInputViewManager.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputViewManager.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextViewManager.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/node_modules/react-native/Libraries/Text/TextInput/Multiline/RCTMultilineTextInputView.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h

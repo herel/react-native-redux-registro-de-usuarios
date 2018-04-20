@@ -7,6 +7,8 @@ const Navigation = StackNavigator({
 	home : {
 		screen : Form
 	}
+},{
+	headerMode: 'none'
 });
 
 export default Navigation;

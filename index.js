@@ -38,4 +38,4 @@ export default class Herelodin extends Component {
 	}
 }
 
-AppRegistry.registerComponent('herelodin.com', () => Herelodin);
+AppRegistry.registerComponent('herelodin', () => Herelodin);
