@@ -28,3 +28,20 @@ export const InputStyle = {
 	color : 'white',
 	marginLeft : 15
 }
+
+export const button = {
+	width : width - 30,
+	height : 42,
+	marginTop : 15,
+	marginBottom : 15,
+	marginLeft : 15,
+	flexDirection : 'row',
+	alignItems : 'center',
+	justifyContent : 'center',
+	borderRadius : 3	
+}
+
+export const button_text ={
+	color : 'white',
+	fontSize: 16
+}
