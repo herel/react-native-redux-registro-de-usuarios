@@ -34,10 +34,13 @@ class Login extends Component{
 
 
 	_login(){
-		this.setState({ lodaer : true })
+		this.setState({ loader : true })
 		this.props.login(this.state).then(($result) => {
+			this.setState({ loader : false })
+			Alert.alert('confirmación','Iniciaste sesión correctamente');
 			//todo salio bien enviamos a otra vista donde veremos el perfild del usuario
 		}).catch( (err) => {
+			this.setState({ loader : false })
 			Alert.alert('Error',err.message);
 		})
 	}

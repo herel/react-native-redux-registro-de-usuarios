@@ -1,10 +1,12 @@
 import React, { Component } from 'react';
-import { View } from 'react-native';
+import { View, Text } from 'react-native';
 import Button from '../components/Button';
 import LinearGradient from 'react-native-linear-gradient';
 import {
 	container
 } from '../config/styles';
+import { connect } from 'react-redux';
+
 
 class Home extends Component{
 	
@@ -30,10 +32,15 @@ class Home extends Component{
 					onPress={() => this._go('login')}
 					text="¿Ya tienes una cuenta? Inica sesión"
 				/>
+				<Text style={{ color : 'white'}}>{JSON.stringify(this.props.session)}</Text>
 			</LinearGradient>
 		)
 	}
 }
 
-
-export default Home;
+function MapStateToProps(state){
+	return {
+		session : state.session
+	}
+}
+export default  connect(MapStateToProps)(Home);
