@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/node_modules/react-native-fbsdk/ios/RCTFBSDK/core/RCTFBSDKInitializer.m \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/node_modules/react-native-fbsdk/ios/FBSDKCoreKit.framework/Modules/module.modulemap \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/node_modules/react-native-fbsdk/ios/FBSDKCoreKit.framework/Headers/FBSDKProfilePictureView.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/node_modules/react-native-fbsdk/ios/FBSDKCoreKit.framework/Headers/FBSDKProfile.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/node_modules/react-native-fbsdk/ios/FBSDKCoreKit.framework/Headers/FBSDKMutableCopying.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/node_modules/react-native-fbsdk/ios/FBSDKCoreKit.framework/Headers/FBSDKGraphErrorRecoveryProcessor.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/node_modules/react-native-fbsdk/ios/FBSDKCoreKit.framework/Headers/FBSDKAppLinkUtility.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/node_modules/react-native-fbsdk/ios/FBSDKCoreKit.framework/Headers/FBSDKAppLinkResolver.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/node_modules/react-native-fbsdk/ios/FBSDKCoreKit.framework/Headers/FBSDKUtility.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/node_modules/react-native-fbsdk/ios/FBSDKCoreKit.framework/Headers/FBSDKTestUsersManager.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/node_modules/react-native-fbsdk/ios/FBSDKCoreKit.framework/Headers/FBSDKSettings.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/node_modules/react-native-fbsdk/ios/FBSDKCoreKit.framework/Headers/FBSDKGraphRequestDataAttachment.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/node_modules/react-native-fbsdk/ios/FBSDKCoreKit.framework/Headers/FBSDKGraphRequest.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/node_modules/react-native-fbsdk/ios/FBSDKCoreKit.framework/Headers/FBSDKConstants.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/node_modules/react-native-fbsdk/ios/FBSDKCoreKit.framework/Headers/FBSDKButton.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/node_modules/react-native-fbsdk/ios/FBSDKCoreKit.framework/Headers/FBSDKApplicationDelegate.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/node_modules/react-native-fbsdk/ios/FBSDKCoreKit.framework/Headers/FBSDKAppEvents.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/node_modules/react-native-fbsdk/ios/FBSDKCoreKit.framework/Headers/FBSDKMacros.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/node_modules/react-native-fbsdk/ios/FBSDKCoreKit.framework/Headers/FBSDKGraphRequestConnection.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/node_modules/react-native-fbsdk/ios/FBSDKCoreKit.framework/Headers/FBSDKCopying.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/node_modules/react-native-fbsdk/ios/FBSDKCoreKit.framework/Headers/FBSDKAccessToken.h \
+  /Users/herelodin/Documents/projects/herelodin/herelodin.com/node_modules/react-native-fbsdk/ios/FBSDKCoreKit.framework/Headers/FBSDKCoreKit.h

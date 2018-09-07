@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/color/com_facebook_button_text_color.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/d73d978608683be37a91090900ad3e8f/res/color/com_facebook_button_text_color.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/1e9c656001446029376b9eea991d5a1c/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/1e9c656001446029376b9eea991d5a1c/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/1e9c656001446029376b9eea991d5a1c/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/color/com_facebook_send_button_text_color.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/c5a9a79494aeaa5fca556c58fd3775d4/res/color/com_facebook_send_button_text_color.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/color/switch_thumb_material_light.xml"
+    }
+]

@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/90e05ad86b2a4d71ac3c62a2c97c8639/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/dev_loading_view.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/react-native-0.54.0.aar/f3c35950c59c38972bf6210bc42e0e36/res/layout/dev_loading_view.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/90e05ad86b2a4d71ac3c62a2c97c8639/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/com_facebook_smart_device_dialog_fragment.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/d73d978608683be37a91090900ad3e8f/res/layout/com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_small.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/149884ecea36b5e40f981eeff35e3c8b/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/com_facebook_login_fragment.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/d73d978608683be37a91090900ad3e8f/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_round.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/149884ecea36b5e40f981eeff35e3c8b/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/redbox_item_title.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/react-native-0.54.0.aar/f3c35950c59c38972bf6210bc42e0e36/res/layout/redbox_item_title.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/com_facebook_activity_layout.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/d73d978608683be37a91090900ad3e8f/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_round.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/149884ecea36b5e40f981eeff35e3c8b/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e65a7c8fec8cbd6661d5b7c3cfff423e/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/90e05ad86b2a4d71ac3c62a2c97c8639/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/redbox_view.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/react-native-0.54.0.aar/f3c35950c59c38972bf6210bc42e0e36/res/layout/redbox_view.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/90e05ad86b2a4d71ac3c62a2c97c8639/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/com_facebook_device_auth_dialog_fragment.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/d73d978608683be37a91090900ad3e8f/res/layout/com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/tooltip.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/layout/tooltip.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/90e05ad86b2a4d71ac3c62a2c97c8639/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e65a7c8fec8cbd6661d5b7c3cfff423e/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_large.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/149884ecea36b5e40f981eeff35e3c8b/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/90e05ad86b2a4d71ac3c62a2c97c8639/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/fps_view.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/react-native-0.54.0.aar/f3c35950c59c38972bf6210bc42e0e36/res/layout/fps_view.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_small.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/149884ecea36b5e40f981eeff35e3c8b/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/90e05ad86b2a4d71ac3c62a2c97c8639/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/90e05ad86b2a4d71ac3c62a2c97c8639/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/90e05ad86b2a4d71ac3c62a2c97c8639/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e65a7c8fec8cbd6661d5b7c3cfff423e/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e65a7c8fec8cbd6661d5b7c3cfff423e/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e65a7c8fec8cbd6661d5b7c3cfff423e/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/12a2026ddb1d721ceca683792dd5aaf0/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_large.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/149884ecea36b5e40f981eeff35e3c8b/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/redbox_item_frame.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/react-native-0.54.0.aar/f3c35950c59c38972bf6210bc42e0e36/res/layout/redbox_item_frame.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/layout/abc_list_menu_item_icon.xml"
+    }
+]

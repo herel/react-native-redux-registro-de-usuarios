@@ -1,11 +1,19 @@
 import React, { Component } from 'react';
-import { View, Text } from 'react-native';
+import { View, Text, Alert } from 'react-native';
 import Button from '../components/Button';
 import LinearGradient from 'react-native-linear-gradient';
 import {
 	container
 } from '../config/styles';
 import { connect } from 'react-redux';
+
+import FBSDK from 'react-native-fbsdk';
+
+const {
+	LoginManager,
+	AccessToken
+} = FBSDK;
+
 
 
 class Home extends Component{
@@ -18,6 +26,19 @@ class Home extends Component{
 	_go(routeName){
 		this.props.navigation.navigate(routeName);
 	}
+
+	_loginFacebook(){
+		LoginManager
+		.logInWithReadPermissions(['public_profile','email'])
+			.then( (result) => {
+				if (result.isCancelled)
+					Alert.alert('Ocurrio un error','Cancelaste iniciar sesión');
+				else
+					Alert.alert('response', JSON.stringify(result));
+			})
+			.catch( (err) => console.log(err));
+	}
+
 
 	render(){
 		return (
@@ -32,7 +53,13 @@ class Home extends Component{
 					onPress={() => this._go('login')}
 					text="¿Ya tienes una cuenta? Inica sesión"
 				/>
-				<Text style={{ color : 'white'}}>{JSON.stringify(this.props.session)}</Text>
+
+				<Button
+					color="#4267b2"
+					onPress={this._loginFacebook.bind(this)}
+					text="Iniciar sesión con facebook"
+				/>
+				
 			</LinearGradient>
 		)
 	}

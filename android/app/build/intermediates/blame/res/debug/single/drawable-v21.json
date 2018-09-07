@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e65a7c8fec8cbd6661d5b7c3cfff423e/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e65a7c8fec8cbd6661d5b7c3cfff423e/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/herelodin/Documents/projects/herelodin/herelodin.com/android/app/build/intermediates/res/merged/debug/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/af258c1eba94fe16215b0c608d74890c/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/Users/herelodin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e65a7c8fec8cbd6661d5b7c3cfff423e/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

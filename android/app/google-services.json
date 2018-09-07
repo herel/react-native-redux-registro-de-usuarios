@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "774723022378",
+    "firebase_url": "https://notificaciones-push-fc185.firebaseio.com",
+    "project_id": "notificaciones-push-fc185",
+    "storage_bucket": "notificaciones-push-fc185.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774723022378:android:d6b8135e9e9bd448",
+        "android_client_info": {
+          "package_name": "com.herelodin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774723022378-0av5n4fivpec894s1tjf47srh34hnjm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAIDvDU1QmROcLH6K8TN2XfuJNa6OxOuA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
